@@ -1,0 +1,48 @@
+/* center title text */
+#ultrakill {
+    width: 100%;
+}
+
+.main {
+    background-color: black;
+}
+
+.songspage {
+    background-color: black;
+}
+
+.title {
+    text-align: center;
+    background-color: grey;
+}
+/* make the song list pretty */
+#songlist {
+    background-color: lightgrey;
+    display: grid;
+    margin-left: 25%;
+    width: 50%;
+    margin-right: 25%;
+}
+/* make it easier to read */
+.song {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+/* a divider component */
+.divider {
+    padding-top: 50px;
+}
+/* a paragraph :) */
+.paragraph {
+    color: white;
+}
+/* the about page */
+#about {
+    background-color: black;
+}
+
+#table {
+    color: white;
+    width: 100%;
+    background-color: rgb(35, 35, 35);
+}
