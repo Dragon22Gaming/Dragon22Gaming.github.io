@@ -27,6 +27,7 @@
 .song {
     padding-top: 1px;
     padding-bottom: 1px;
+    text-align: center;
 }
 /* a divider component */
 .divider {
