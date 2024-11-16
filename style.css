@@ -46,3 +46,14 @@
     width: 100%;
     background-color: rgb(35, 35, 35);
 }
+
+#navbar {
+    background-color: grey;
+}
+
+.navitem {
+    display: inline-block;
+    padding: 10px;
+    padding-left: 14%;
+    padding-right: 11%;
+}
